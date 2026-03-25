@@ -9,3 +9,5 @@ About<br/>
 I'm eager to turn strong fundamentals into polished user-focused experiences. I excel at building responsive, accessible interfaces with clean maintainable code and componment-driven approach; I'm comfortable with HTML, CSS, JavaScript and modern frameworks, and I prioritize performance and good UX. I focus on responsive marketing sites, dashboards, and e-commerce interfaces, and I enjoy collaborating on projects that challenge me to learn new tools and improve my code quality.<br/>
 Projects <br/>
 Soon to be uploaded
+
+<img width="296" height="114" alt="Stacked RGB1" src="https://github.com/user-attachments/assets/3b229ba2-ab66-407d-b52b-98ba01fc0ba7" />
