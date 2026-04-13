@@ -26,18 +26,15 @@ I like turning strong basics into user-focused websites. I build responsive, acc
 
 ### GIT 480 — Roastery Website Redesign (Senior Project)  
 Redesigning a full, responsive website for a small roastery business. Includes product pages and a better mobile experience.  
-[Demo](https://demo.example) • [Repo](https://github.com/your-username/git480-roastery)  
-<img src="./assets/screenshot1.png" alt="Roastery preview" width="800" />
+[Roastery Preview](screenshot3.PNG) • [Repo](https://github.com/your-username/git480-roastery)  
 
 ### GIT 417 — Single‑Page Site (Class Project)  
 A fully semantic single‑page site made with HTML, CSS, and JS. Fan/merch site for The Cranberries with an interactive e‑commerce section to show front‑end skills.  
-[Demo](https://demo.example) • [Repo](https://github.com/your-username/git417-cranberries)  
-![Cranberries preview](./assets/cranberries-preview.png)
+[Cranberries Preview](screenshot1.PNG) • [Repo](https://github.com/your-username/git417-cranberries)  
 
 ### GIT 314 — 10‑Second Motion Graphic (Course Final)  
 A short, playful commercial for Dirty Pawz, a mobile dog-wash service. Solo project showing motion‑design basics from storyboard to final export.  
-[Video](https://youtu.be/3KvygfDDYaU) • [Assets](link)  
-![Dirty Pawz preview](./assets/dirtypawz-preview.png)
+[Dirty Pawz Preview](screenshot2.png) • [Video](https://youtu.be/3KvygfDDYaU)
 
 ---
 
@@ -48,7 +45,7 @@ Expected graduation: May 12, 2026
 ---
 
 ## Contact
-Alyssa Keating — [Portfolio](https://your-portfolio.example) • [Resume](https://your-resume.example) • [Email](mailto:your.email@example)
+Alyssa Keating — [Portfolio](Link) • [Resume](Link) • [Email](mailto:alyssa.keating9@gmail.com)
 
 Made with ♥  
 
