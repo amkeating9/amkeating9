@@ -31,11 +31,11 @@ Redesigning a full, responsive website for a small roastery business. Includes p
 
 ### GIT 417 — Single‑Page Site (Class Project)  
 A fully semantic single‑page site made with HTML, CSS, and JS. Fan/merch site for The Cranberries with an interactive e‑commerce section to show front‑end skills.  
-[Cranberries Preview](screenshot1.PNG) • [Repo](https://github.com/your-username/git417-cranberries)  
+[Cranberries Preview](screenshot1.PNG) • [Repo](https://github.com/amkeating9/thecranberriesgit417)  
 
 ### GIT 314 — 10‑Second Motion Graphic (Course Final)  
 A short, playful commercial for Dirty Pawz, a mobile dog-wash service. Solo project showing motion‑design basics from storyboard to final export.  
-[Dirty Pawz Preview](screenshot2.png) • [Video](https://youtu.be/3KvygfDDYaU)
+[Dirty Pawz Preview](screenshot2.PNG) • [Video](https://youtube.com/watch?v=3Kv7gfDDYaU)
 
 ---
 
