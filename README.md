@@ -27,7 +27,7 @@ I like turning strong basics into user-focused websites. I build responsive, acc
 
 ### GIT 480 — Roastery Website Redesign (Senior Project)  
 Redesigning a full, responsive website for a small roastery business. Includes product pages and a better mobile experience.  
-[Roastery Preview](screenshot3.PNG) • [Repo](link)  
+[Roastery Preview](screenshot3.PNG) • [Repo](https://github.com/amkeating9/CommonGroundEspresso)  
 
 ### GIT 417 — Single‑Page Site (Class Project)  
 A fully semantic single‑page site made with HTML, CSS, and JS. Fan/merch site for The Cranberries with an interactive e‑commerce section to show front‑end skills.  
