@@ -41,12 +41,12 @@ A short, playful commercial for Dirty Pawz, a mobile dog-wash service. Solo proj
 
 ## Education
 Arizona State University — Graphic Information Technology  
-Expected graduation: May 12, 2026
+Graduated: May 12th, 2026
 
 ---
 
 ## Contact
-Alyssa Keating — [Portfolio](Link) • [Resume](Link) • [Email](mailto:alyssa.keating9@gmail.com)
+Alyssa Keating — [Portfolio](Link) • [Email](mailto:alyssa.keating9@gmail.com)
 
 Made with ♥  
 
